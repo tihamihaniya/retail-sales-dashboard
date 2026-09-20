@@ -1,20 +1,24 @@
 # Retail Sales Dashboard
 
-A React + TanStack Start dashboard for exploring retail sales performance.
+An interactive dashboard for analyzing retail sales performance, revenue trends, product categories, customer segments, and key business metrics.
 
-## Run locally
+## Features
 
-Requirements: Node.js and npm.
+- Sales performance analysis
+- Revenue and sales trend tracking
+- Product category analysis
+- Customer segment analysis
+- Interactive dashboard visualizations
+- Key performance indicators (KPIs)
 
-```sh
+## Run Locally
+
+### Requirements
+
+- Node.js
+- npm
+
+### Installation
+
+```bash
 npm install
-npm run dev
-```
-
-Then open the local URL shown in the terminal.
-
-## Build
-
-```sh
-npm run build
-```
